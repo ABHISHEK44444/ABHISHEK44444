@@ -1,4 +1,5 @@
-# ABHISHEK THAKOUR 
+# ABHISHEK THAKOUR
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abhishek+Thakour+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;MERN+%E2%80%A2+Next.js+%E2%80%A2+AI+Integration+%F0%9F%A4%96" alt="Typing SVG" />
@@ -112,7 +113,7 @@ I'm interested in building applications that combine full-stack development with
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEK44444&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%" />
+<img src="https://ghchart.rshah.org/7aa2f7/ABHISHEK44444" alt="Contribution chart" width="100%" />
 
 </div>
 
