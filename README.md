@@ -1,4 +1,4 @@
-# ABHISHEK THAKOUR
+# ABHISHEK THAKOUR 
 
 <div align="center">
 
@@ -77,6 +77,8 @@ I'm a full-stack developer interested in building modern web applications, solvi
 
 | Project | What it does | Tech / Focus |
 |---|---|---|
+| 📋 **CRM Tender Manager** | CRM for tracking tenders, bids, and deadlines across web, desktop, and mobile | MERN Stack, Electron, React Native |
+| 🎫 **Ticketing Application** | Service desk for raising, assigning, and tracking support tickets with SLA-based escalation | Node.js, MongoDB, AWS EC2 |
 | 🔔 **BhartiAlert** | Government jobs, results, admit cards, and AI-assisted cutoff analysis | React, Gemini API |
 | 📚 **Visit and Learn** | Blog website for sharing useful information and content | Web Development |
 | 📰 **News Website** | News-focused website project | Web Development |
